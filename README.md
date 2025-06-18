@@ -4,7 +4,7 @@
 
 # Hello there! 👋
 ## About me
-Highly motivated Software Engineer with 4+ years of experience in delivering top-notch Backend Development solutions.
+Highly motivated Software Engineer with 3+ years of experience in delivering top-notch Backend Development solutions.
 Expertise in Java, Spring/Spring Boot, REST, RabbitMQ, gRPC, GraphQL, JPA, Hibernate, Postgres, and Docker, allows for seamless design and development of web-based applications.
 Pursuing a Master's in Software Systems Science to expand technical knowledge and drive success in complex projects.
 Passionate about utilizing technical skills to deliver innovative and impactful solutions.
